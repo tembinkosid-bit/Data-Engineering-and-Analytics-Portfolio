@@ -1,6 +1,8 @@
-# Tembinkosi Vikani Dube – Data Analytics Portfolio
+# Tembinkosi Vikani Dube – Data Engineering & Analytics Portfolio
 
-Welcome to my portfolio! I am a Data Engineer and Analytics professional with experience in retail operations, logistics, and business intelligence. This portfolio showcases my SQL, Python, and Power BI projects related to e-commerce, retail sales, and inventory analytics.
+Welcome to my portfolio. I am a Data Engineer and Analytics professional with experience across retail operations, logistics, and business intelligence systems.
+
+This portfolio showcases end-to-end projects using SQL, Python, and Power BI, focused on e-commerce analytics, retail sales intelligence, inventory optimization, and data engineering pipelines.
 
 ---
 
