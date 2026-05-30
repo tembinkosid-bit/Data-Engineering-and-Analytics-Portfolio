@@ -71,7 +71,7 @@ Python, pandas, SQL Server, SQLAlchemy, ETL pipeline design, data validation, da
 
 ## GitHub Repository:
 
-[Retail Market Intelligence ETL Pipeline](https://github.com/tembinkosid-bit/retail-market-intelligence)
+[Retail Sales Forecasting ETL Pipeline](https://github.com/tembinkosid-bit/Retail-Sales-Forecasting)
 
 ---
 
