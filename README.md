@@ -1,4 +1,5 @@
 # Tembinkosi Vikani Dube – Data Engineering & Analytics Portfolio
+![Portfolio Banner](./assets/portfolio_banner.png)
 
 Welcome to my portfolio. I am a Data Engineer and Analytics professional with experience across retail operations, logistics, and business intelligence systems.
 
