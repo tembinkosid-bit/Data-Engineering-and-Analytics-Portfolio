@@ -1,5 +1,7 @@
 # Tembinkosi Vikani Dube – Data Engineering & Analytics Portfolio
-![Portfolio Banner](./assets/portfolio_banner.png)
+
+<img width="1536" height="1024" alt="ChatGPT Image May 30, 2026, 10_49_38 PM" src="https://github.com/user-attachments/assets/09635a89-d18d-48bc-8db5-d6d501a66918" />
+
 
 Welcome to my portfolio. I am a Data Engineer and Analytics professional with experience across retail operations, logistics, and business intelligence systems.
 
