@@ -16,7 +16,7 @@ This portfolio demonstrates progressive capability across two layers:
 ### 🔵 Data Engineering Layer
 Focused on building automated, production-style data systems.
 
-1. 🏗️ Retail Market Intelligence ETL Pipeline (End-to-End System)
+1. 🏗️ Retail Sales Forecasting ETL Pipeline (End-to-End System)
 
 ### 🟢 Data Analytics & Insights Layer
 Focused on extracting business value from structured datasets.
@@ -42,7 +42,7 @@ Focused on extracting business value from structured datasets.
 
 ## 📂 Projects
 
-# 1. 🏗️ Retail Market Intelligence ETL Pipeline (End-to-End Data Engineering System)
+# 1. 🏗️ Retail Sales Forecasting ETL Pipeline (End-to-End Data Engineering System)
 
 ## Description:
 Built a production-style ETL pipeline that automates ingestion of retail datasets from Kaggle, performs structured validation and data quality profiling, applies transformation and feature engineering, and loads processed data into SQL Server. The system includes a full observability layer with run-level tracking and persistent data quality reporting for monitoring dataset health across executions.
