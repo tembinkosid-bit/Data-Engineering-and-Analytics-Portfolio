@@ -2,33 +2,42 @@
 
 Welcome to my portfolio. I am a Data Engineer and Analytics professional with experience across retail operations, logistics, and business intelligence systems.
 
-My work focuses on building end-to-end data solutions — from data extraction and validation through to transformation, modeling, and dashboarding. I specialise in SQL, Python, and Power BI, with increasing focus on scalable data pipelines and ETL system design.
+I specialize in building end-to-end data solutions — from data ingestion and validation through transformation, modeling, and analytics delivery. My core stack includes SQL, Python (pandas), SQL Server, and Power BI, with a strong focus on scalable ETL pipelines and data quality observability.
 
 ---
 
-## 📊 Portfolio Overview
+## 🧭 Portfolio Summary
 
-This portfolio contains progressively advanced data projects, structured from analytics to full data engineering systems:
+This portfolio demonstrates progressive capability across two layers:
 
-### 🟢 Analytics & Insights Layer
+### 🟢 Data Analytics & Insights Layer
+Focused on extracting business value from structured datasets.
+
 1. 🛒 E-Commerce Behavioral Funnel & Revenue Optimization Analysis  
 2. 📊 Retail Sales Analytics  
 3. 📦 Retail Inventory Analytics  
 
 ### 🔵 Data Engineering Layer
+Focused on building automated, production-style data systems.
+
 4. 🏗️ Retail Market Intelligence ETL Pipeline (End-to-End System)
 
 ---
 
-Each project demonstrates practical application of:
-- Data cleaning & validation
-- SQL-based data modelling
-- Python-based data processing (pandas)
-- Dashboarding & business intelligence (Power BI)
-- ETL pipeline design & observability
+## 🧠 Core Technical Capabilities Demonstrated
+
+- Data ingestion (API-based & batch datasets)
+- Data validation (schema + quality checks)
+- ETL pipeline design (extract → transform → load)
+- Feature engineering using Python (pandas)
+- SQL Server data modeling and ingestion
+- Data quality reporting & observability (run-level tracking)
+- Structured logging for pipeline monitoring
+- Business intelligence dashboards (Power BI)
+
 ---
 
-## Projects
+## 📂 Projects
 
 ### 1. 🛒 E-Commerce Behavioral Funnel & Revenue Optimization Analysis
 - **Description:** Analysis of user behavior on a large-scale e-commerce platform to identify conversion bottlenecks, revenue drivers, and growth opportunities. Built SQL models, cleaned and validated data with Python, and created a Power BI dashboard to visualize funnels, session behavior, and revenue patterns.
