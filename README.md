@@ -2,8 +2,30 @@
 
 Welcome to my portfolio. I am a Data Engineer and Analytics professional with experience across retail operations, logistics, and business intelligence systems.
 
-This portfolio showcases end-to-end projects using SQL, Python, and Power BI, focused on e-commerce analytics, retail sales intelligence, inventory optimization, and data engineering pipelines.
+My work focuses on building end-to-end data solutions — from data extraction and validation through to transformation, modeling, and dashboarding. I specialise in SQL, Python, and Power BI, with increasing focus on scalable data pipelines and ETL system design.
 
+---
+
+## 📊 Portfolio Overview
+
+This portfolio contains progressively advanced data projects, structured from analytics to full data engineering systems:
+
+### 🟢 Analytics & Insights Layer
+1. 🛒 E-Commerce Behavioral Funnel & Revenue Optimization Analysis  
+2. 📊 Retail Sales Analytics  
+3. 📦 Retail Inventory Analytics  
+
+### 🔵 Data Engineering Layer
+4. 🏗️ Retail Market Intelligence ETL Pipeline (End-to-End System)
+
+---
+
+Each project demonstrates practical application of:
+- Data cleaning & validation
+- SQL-based data modelling
+- Python-based data processing (pandas)
+- Dashboarding & business intelligence (Power BI)
+- ETL pipeline design & observability
 ---
 
 ## Projects
