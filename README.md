@@ -35,7 +35,38 @@ Welcome to my portfolio! I am a Data Engineer and Analytics professional with ex
   <img width="796" height="548" alt="Retail_Sales_Analysis" src="https://github.com/user-attachments/assets/3f08c6e0-f322-4614-b0eb-5ab7cee62310" />
 
 ---
+# 4. 🏗️ Retail Market Intelligence ETL Pipeline (End-to-End Data Engineering System)
+
+## Description:
+Built a production-style ETL pipeline that automates ingestion of retail datasets from Kaggle, performs structured validation and data quality profiling, applies transformation and feature engineering, and loads processed data into SQL Server. The system includes a full observability layer with run-level tracking and persistent data quality reporting for monitoring dataset health across executions.
+
+The pipeline is designed to simulate real-world retail data infrastructure, including error handling, schema enforcement, SQL-safe type conversion, and scalable multi-dataset processing.
+
+---
+
+## Key Features:
+
+- Automated dataset extraction from Kaggle API  
+- Multi-file validation (schema + quality checks)  
+- Data quality reporting (nulls, duplicates, row tracking)  
+- Feature engineering and transformation layer  
+- SQL Server ingestion with safe type handling  
+- Pipeline observability with run_id tracking  
+- Structured logging across all ETL stages  
+
+---
+
+## Skills & Tools:
+
+Python, pandas, SQL Server, SQLAlchemy, ETL pipeline design, data validation, data engineering best practices, logging & observability  
+
+---
+
+## GitHub Repository:
+
+[Retail Market Intelligence ETL Pipeline](https://github.com/tembinkosid-bit/retail-market-intelligence)
 
 ## Contact
 - **LinkedIn:** [Tembinkosi Vikani Dube](https://www.linkedin.com/in/tembinkosid-vikani-dube)
 - **Email:** [tembinkosid@gmail.com]
+
